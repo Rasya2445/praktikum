@@ -1,0 +1,5 @@
+Nama: Agus | Nilai: 54.00 | Grade: D
+Nama: Wulan | Nilai: 77.00 | Grade: B
+Nama: Vincent | Nilai: 78.00 | Grade: B
+Nama: Rahma | Nilai: 83.00 | Grade: B
+Nama: Flora | Nilai: 95.00 | Grade: A

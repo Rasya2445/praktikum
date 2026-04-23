@@ -1,0 +1,2 @@
+Luas lingkaran dengan r=8.0 adalah 201.06
+Luas lingkaran dengan r=9.00 adalah 254.34
